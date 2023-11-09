@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    
+    margin-left: 300px;
+    margin-top: 30px;
+}
+header h2{
+    color: rgb(223, 22, 122);
+}
+.search{
+    margin-left: 35px;
+}
+.search1{
+    margin-left: 35px;
+
+}
+.search3{
+    margin-left: 20px;
+    color: rgb(223, 22, 122);
+}
+
+nav{
+    background-color: rgb(223, 22, 122);
+    color: white;
+    margin-top: 30px;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul li{
+    list-style: none;
+    padding: 10px;
+}
+
+.venu{
+    background-image: url(../img/bg.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    height: 100%;
+    width: 100%;
+}
+span {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 6px;
+    background-color: rgb(223, 22, 122);
+    color: white;
+    margin-left: 70px;
+    margin-top: 130px;
+    
+  }
+  span p{
+    margin-left: 70px;
+    margin-top: 30px;
+    
+  }
+
+aside{
+    display: flex;
+    margin: 30px 200px;
+  
+}
+
+article{
+    background-color: rgb(223, 22, 122);
+    height: 450px;
+}
+article h1{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.imgfp{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.container .img1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.container h1{
+    text-align: center;
+    
+    padding-top: 30px;
+}
+.container .buttons{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+footer{
+    background-color: rgb(223, 22, 122);
+}
+footer ul li a{
+    text-decoration: none;
+}
+
+.vg{
+    display: flex;
+}
